@@ -1,0 +1,29 @@
+{
+  "empleados": [
+    {
+      "id": 1144080222,
+      "FechaIngreso": "2022-05-25",
+      "HoraIngreso": "3:07"
+    },
+    {
+      "id": 1004080222,
+      "FechaIngreso": "2022-05-26",
+      "HoraIngreso": "3:07"
+    },
+    {
+      "id": 1144555222,
+      "FechaIngreso": "2022-05-30",
+      "HoraIngreso": "3:07"
+    },
+    {
+      "id": 1144080558,
+      "FechaIngreso": "2022-05-31",
+      "HoraIngreso": "13:12"
+    },
+    {
+      "id": 1144080741,
+      "FechaIngreso": "2022-05-31",
+      "HoraIngreso": "12:12"
+    }
+  ]
+}
